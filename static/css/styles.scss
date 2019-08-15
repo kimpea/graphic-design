@@ -1,0 +1,29 @@
+/*-- Variables --*/
+
+$primaryColor: #f0ad4e;
+$landingColor: #fafafa;
+
+html, body {
+    min-height: 100%;
+    margin: auto;
+}
+
+section {
+    min-height: 100vh;
+}
+
+#landing {
+    background-color: $landingColor;
+}
+
+#about {
+    background-color: blue;
+}
+
+#gallery {
+    background-color: grey;
+}
+
+#contact {
+    background-color: orange;
+}
